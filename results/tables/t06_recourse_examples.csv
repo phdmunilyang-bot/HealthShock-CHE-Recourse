@@ -1,0 +1,7 @@
+case,age,income_mn,coverage,employment,risk_orig,recourse,risk_cf,risk_reduction_pp
+1,76,140,NHI employee-dependent,Economically inactive,0.905,employment: Economically inactive -> Unpaid family; income: 140 -> 596 man-won,0.363,54.2
+2,77,60,NHI employee-dependent,Economically inactive,0.905,coverage: NHI employee-dependent -> National-merit; income: 60 -> 441 man-won,0.451,45.5
+3,78,650,NHI employee-dependent,Economically inactive,0.696,income: 650 -> 889 man-won,0.546,15.0
+4,75,210,NHI employee-dependent,Economically inactive,0.644,income: 210 -> 441 man-won,0.428,21.6
+5,82,75,NHI regional-member,Economically inactive,0.554,income: 75 -> 441 man-won,0.34,21.4
+6,83,290,NHI regional-member,Economically inactive,0.545,income: 290 -> 441 man-won,0.332,21.3

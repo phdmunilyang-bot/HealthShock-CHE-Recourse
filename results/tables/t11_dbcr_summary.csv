@@ -1,0 +1,2 @@
+n_high_risk_uninsured,mean_r0,naive_recommends_insurance_pct,dbcr_recommends_insurance_pct,dbcr_mean_risk_reduction_pp,naive_model_insurance_effect_pp,design_based_insurance_effect_pp
+200,0.32616673704298466,0.0,100.0,7.488242062137471,7.452585222626127,-7.488242062137471
