@@ -1,14 +1,9 @@
 # Health Shocks, Catastrophic Health Expenditure, and the Private-Insurance Buffer: Toward Design-Based (Quasi-Experimental) Algorithmic Recourse
 
-**Authors:** Hyunjeong Kang (Kookmin University, Seoul, Republic of Korea;
-[ORCID 0009-0007-9181-4649](https://orcid.org/0009-0007-9181-4649)) and
-Munil Yang (corresponding author; Institute for Industrial Policy Studies, Seoul,
-Republic of Korea; [ORCID 0009-0004-1493-6691](https://orcid.org/0009-0004-1493-6691);
-miyang@ips.or.kr).
-
-> Replication code for a manuscript under review at *Borsa İstanbul Review*
-> (single-anonymized peer review). The Korea Health Panel microdata are not
-> redistributed; see **Data access** below.
+> **Anonymized repository for peer review.** Author identities and affiliations are
+> withheld in this review copy. This repository accompanies a manuscript currently
+> under review at a peer-reviewed journal; please do not attempt to deanonymize it.
+> The Korea Health Panel microdata are not redistributed; see **Data access** below.
 
 ## Overview
 
