@@ -14,3 +14,4 @@ jupyter
 nbconvert
 nbformat
 ipykernel
+moderndid[didhonest]>=0.1  # notebook 16 (honest-DiD); pulls cvxpy, highspy

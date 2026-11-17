@@ -91,6 +91,13 @@ Run order and outputs:
 | 09 sun_abraham_comparison | TWFE / CS / Sun–Abraham (fig12) |
 | 10 longitudinal_weights | longitudinally-weighted estimates (fig13) |
 | 11 design_based_recourse | design-based constrained recourse (fig14) |
+| 12 buffer_parallel_trends | buffer pre-trends by baseline PHI, attrition test, balanced-core re-estimation (fig15) |
+| 13 capacity_to_pay | consumption / WHO non-food capacity-to-pay CHE robustness (fig16) |
+| 14 recourse_lever_robustness | DiCE recourse with vs without income as an actionable lever |
+| 15 equity_and_netpremium | private-insurance accessibility gradient; net-of-reimbursement-and-premium buffer (fig17) |
+| 16 honest_did | CS pre-trend joint test + Rambachan-Roth honest-DiD sensitivity for the buffer (fig18) |
+| 17 honest_did_extensions | post-average target and a direct honest-DiD on the buffer |
+| 18 recourse_fullset | recourse share over all top-decile high-risk uninsured households |
 
 Each notebook is self-contained (a single code cell), writes its figures to
 `results/figures/` (PNG + PDF, 600 dpi, grayscale) and its tables to `results/tables/`.
@@ -100,7 +107,9 @@ Each notebook is self-contained (a single code cell), writes its figures to
 `pyreadstat`, `pandas`, `numpy`, `linearmodels` (PanelOLS), `differences` (ATTgt;
 Callaway–Sant'Anna), `pyfixest` (Sun–Abraham / saturated event study),
 `scikit-learn` (HistGradientBoosting), `dice-ml` (DiCE recourse),
-`seaborn` / `matplotlib`.
+`seaborn` / `matplotlib`. The honest-DiD notebook (16) additionally uses
+`moderndid[didhonest]` (Callaway-Sant'Anna re-estimation and Rambachan-Sant'Anna/Roth
+sensitivity; requires `cvxpy` and `highspy`).
 
 ## License
 

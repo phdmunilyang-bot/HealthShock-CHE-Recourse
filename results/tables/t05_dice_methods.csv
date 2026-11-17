@@ -1,0 +1,4 @@
+method,valid,n_cf,phi_acquire,lever_hh_phi_any,lever_HEALTH_INS,lever_ECO1,lever_log_hhinc
+random,20,40,1,1,10,10,40
+genetic,20,40,0,0,6,1,40
+kdtree,4,6,1,1,1,0,6

@@ -1,0 +1,3 @@
+setting,valid_of20,n_cf,phi_reco_pct,income_down_pct,welfare_switch_pct
+income INCLUDED (baseline),20,60,0.0,23.333333333333332,3.3333333333333335
+income EXCLUDED,20,60,0.0,0.0,3.3333333333333335
